@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2018.1\System\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_TicTacToee.851323828.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Documents\tutorial\TicTacToee" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Scripts" t="Include">
+        <e p="GameController.cs" t="Include" />
+        <e p="GridSpace.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="TicTacToee.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
